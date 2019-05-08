@@ -33,7 +33,7 @@ Javascript files are under `app/js`. SASS files are under `app/stylesheets`.
   - background color: `#D6D7D9`
 
 ## Instructions
-#### This is going to be a react application. You have free reign on how you deal with the calculations. At a minimum, it should have the ability to add, subtract, and equal. However, strive to build out all functionality.
+#### This is going to be a react application. You have free reign on how you deal with the calculations. At a minimum, it should have the ability to add, subtract, and equal; striving to build out all functionality would be most ideal.
 - Browser compatibility can be with the latest Chrome
 - Break it down into as many subcomponents as you feel necessary
 
