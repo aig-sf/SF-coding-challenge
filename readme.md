@@ -1,6 +1,6 @@
 # AIG Calculator Coding Challenge
 
-You'll be building a simple react component: a calculator. It will look like the native calculator on an iOS or OSX.
+You'll be building a simple react component: a calculator. It will look like the native calculator on iOS or OSX.
 
 <img src="https://cloud.githubusercontent.com/assets/289053/19524827/a3c1ab8c-95e4-11e6-9acc-a458b2ebd642.png" style="max-width:100%;width:400px;" />
 
